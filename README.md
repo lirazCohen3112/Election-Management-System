@@ -1,3 +1,6 @@
+
+Project presentation: https://drive.google.com/file/d/11hNzzSpgwSvPbYQo-K8oarRkB0Sedtbr/view
+
 Election Data Management System Project - Development and Maintenance of a Database Using MySQL
 
 In this project, I developed a comprehensive and secure data management system for the election process, including the management of data related to parties, candidates, voters, votes, regions, polling stations, observers, and reports. The system is based on a MySQL database and is designed to streamline, organize, and analyze election data.
